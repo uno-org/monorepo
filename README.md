@@ -70,3 +70,7 @@ $ pnpm dev --filter "@infras/ui"
 ```bash
 $ pnpm build --filter "@infras/native"
 ```
+
+### more
+
+[Monorepo 下的模块包设计实践](https://juejin.cn/post/7052271542000074782#heading-0)
